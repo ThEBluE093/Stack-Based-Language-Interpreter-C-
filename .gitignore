@@ -1,0 +1,7 @@
+# Kompilaty i pliki wykonywalne
+*.exe
+*.out
+*.a
+
+# Pliki specyficzne dla Visual Studio
+.vs/
